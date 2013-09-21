@@ -8,7 +8,7 @@ using System.Threading;
 using System.Windows.Forms;
 using WintabDN;
 
-namespace OSU__Win8_Table_Fixed
+namespace OSU_Win8_Table_Fixed
 {
     public partial class Form1 : Form
     {

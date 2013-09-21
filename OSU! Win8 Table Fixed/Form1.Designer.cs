@@ -1,4 +1,4 @@
-﻿namespace OSU__Win8_Table_Fixed
+﻿namespace OSU_Win8_Table_Fixed
 {
     partial class Form1
     {
